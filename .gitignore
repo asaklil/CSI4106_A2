@@ -42,3 +42,5 @@ env/lib/
 env/include/
 env/pyvenv.cfgs
 env/share/
+
+env/
