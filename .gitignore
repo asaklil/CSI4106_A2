@@ -1,7 +1,13 @@
+# Ignore Python virtual environment directories
+env/
+*.pyc
+__pycache__/
+.ipynb_checkpoints/
+*.pyo
+*.pyd
+.Python
+db.sqlite3
+venv/
+*.env
+*.venv
 
-# Ignore Python virtual environment directories but keep project files
-env/bin/
-env/lib/
-env/include/
-env/pyvenv.cfgs
-env/share/
