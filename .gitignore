@@ -1,16 +1,1 @@
-# Ignore Python virtual environment directories but keep project files
-env/
-*.pyc
-__pycache__/
-*.pyo
-*.pyd
-*.db
-*.sqlite3
-*.log
-
-# Ignore Jupyter notebook checkpoints
-.ipynb_checkpoints/
-
-# Ignore editor backup files
-*~ 
-*.swp
+/A2/
